@@ -30,9 +30,7 @@ Visual Basic - great for debugging Python and other programming languages, clear
 A massive database of digital research tools organized by tasks, called "DIRT"
 
 # Management Tools:
-OneNote: I find Onenote helpful keep track of everything, from to-do lists to meeting notes and resources I list here
 EndNote: Keep track of citations. Download the Endnote plug in for Word and you can easily cite while you write.
-Dropbox: I subscribe to Dropbox to get all my files backed up continuously, as I work on them. 
 
 # Data:
 USC List of Databases that allow text mining
@@ -43,7 +41,7 @@ USC List of Free Corpora for Text Mining
 
 # Methods & Concepts:
 
-Word embeddings, and, specifically, Word2Vec
+Word embeddings, and, specifically, Word2Vec, AdaGram, and GloVe. 
 Word embeddings refers to methods like Word2Vec which model language as an n-dimensional vector space. If an n-dimensional vector space is confusing, think about a 2D vector space as a plane, and 3D vector space as a box. Although not easily imaginable, Word2Vec works in vector space of a few hundred dimensions. Each dimension corresponds to a salient dimension of language in a corpus, such as gender or tense, although in practice it is unknown what abstract concept the dimension actually corresponds to. Word2Vec learns this vector space by predicting a word from its context (or vice versa). In the process, each word in the corpus is mapped onto this vector space, such that words with more similar meanings in the corpus are located closer together in the vector space.  Word2Vec may be implemented in Python through the Gensim package. 
 
 
