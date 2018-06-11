@@ -4,13 +4,13 @@ Here are some tools, tutorials and other resources (nearly all free) I've found 
 
 
 # Web-scraping tools:
-Import.io: point-and-click webscraper! Also works to do point-and-click data cleaning for HTML files. 
-ChromeScraper (I haven't used it yet, but it is a point-and-click webscraper like Import.io)
-NodeXL: import network data from sites like Twitter and Youtube, and do network analysis
-Gephi's Plug-In StreamingTwitterImporter: Gephi is a point-and-click network analytic/visualization program, and has a plug in to stream Twitter data
-Scraper
-SelectorGadget
-BeautifulSoup: Python library for webscraping. Here's a very clear intro tutorial.
+*Import.io: point-and-click webscraper! Also works to do point-and-click data cleaning for HTML files. 
+*ChromeScraper (I haven't used it yet, but it is a point-and-click webscraper like Import.io)
+*NodeXL: import network data from sites like Twitter and Youtube, and do network analysis
+*Gephi's Plug-In StreamingTwitterImporter: Gephi is a point-and-click network analytic/visualization program, and has a plug in to stream Twitter data
+*Scraper
+*SelectorGadget
+*BeautifulSoup: Python library for webscraping.
 
 # Text Mining and other Digital Humanities tools:
 Tapor Tools: text analysis tool
