@@ -40,18 +40,6 @@ Here are some tools, tutorials and other resources (nearly all free) I've found 
 # Data:
 * USC List of Databases that allow text mining
 * USC List of Free Corpora for Text Mining 
-
-
-# Methods & Concepts:
-
-*Word embeddings, and, specifically, Word2Vec, AdaGram, and GloVe.*
-Word embeddings refers to methods like Word2Vec which model language as an n-dimensional vector space. If an n-dimensional vector space is confusing, think about a 2D vector space as a plane, and 3D vector space as a box. Although not easily imaginable, Word2Vec works in vector space of a few hundred dimensions. Each dimension corresponds to a salient dimension of language in a corpus, such as gender or tense, although in practice it is unknown what abstract concept the dimension actually corresponds to. Word2Vec learns this vector space by predicting a word from its context (or vice versa). In the process, each word in the corpus is mapped onto this vector space, such that words with more similar meanings in the corpus are located closer together in the vector space.  Word2Vec may be implemented in Python through the Gensim package. 
-
-*Topic Modeling...and Structured Topic Modeling*
-
-*Social networks (and networks, more broadly)*
-Network methods and theories provide a different way to think about data. Rather than focusing on attributes of each thing (like a person) in the data set, a network perspective focuses on the relationships between things (or people). From a network perspective, we might look at the presence/absence, or strength of relationships between people, whether the relationships are reciprocal, and if there are any patterns such as tightly knit cliques or particular people who are well-connected to others in the network. 
-
-
-
+* NYT Annotated Corpus
+* Pretrained Embeddingss: COHA, NYT, GoogleNews, GoogleBooks, Wikipedia, Twitter
 
